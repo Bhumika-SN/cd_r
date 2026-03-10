@@ -8,4 +8,4 @@ public class Rightangtri {
             System.out.println();
         }
     }
-}
+} 
