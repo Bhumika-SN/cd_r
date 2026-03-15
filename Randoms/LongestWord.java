@@ -17,3 +17,6 @@ public class LongestWord {
         System.out.println(longest);
     }
 }
+
+//logestword
+// enter the sentence: Java programming is very powerful
