@@ -19,7 +19,10 @@ public class LongestConsecutive {
             }
 
             else if(nums[i] != nums[i-1]) {
-                if(current > longest)
+      
+
+
+          if(current > longest)
                     longest = current;
 
                 current = 1;
